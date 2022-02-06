@@ -7,11 +7,15 @@ A Simple A* implementation and examples.
 - [main_goal_oriented_action_planning.cpp](main_goal_oriented_action_planning.cpp)
 
 # Building
-ˇˇˇ
+
 cd astar
+
 mkdir build
+
 cd build
+
 cmake ../
+
 cmake --build .
 
-ˇˇˇ
+
